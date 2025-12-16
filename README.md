@@ -25,14 +25,13 @@ A full-stack Airbnb-like web application.
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+<img src="screenshots/home.png" width="700">
 
 ### Listing Page
-![Listing Page](screenshots/listing.png)
+<img src="screenshots/listing.png" width="700">
 
 ### Create Listing
-![Create Listing](screenshots/create.png)
-
+<img src="screenshots/create.png" width="700">
 ---
 
 ## Live Demo
